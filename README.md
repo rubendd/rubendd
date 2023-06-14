@@ -37,9 +37,10 @@
 
 ## GITHUB STATS 💹
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubendd&show_icons=true&theme=onedark&locale=en&layout=compact" alt="rubendd" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubendd&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubendd&show_icons=true&theme=onedark&locale=en" alt="rubendd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubendd&show_icons=true&theme=onedark" alt="rubendd" /></p>
 
  ---
 
