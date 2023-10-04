@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **react, rust, node.js**
 
-- 📫 How to reach me **rubeendugo@gmail.com** or <a href="https://x.com/dugodev?s=20"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" height="30" width="40"/></a>
+- 📫 How to reach me **rubeendugo@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
