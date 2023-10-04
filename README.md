@@ -20,7 +20,7 @@
 - 🌍 Actively engaged in the developer community, sharing insights and learning from others.
 
 
-- 🌱 I’m currently learning **react, rust, node.js**
+- 🌱 I’m currently learning **java, typescript, android**
 
 - 📫 How to reach me **rubeendugo@gmail.com** 
 
